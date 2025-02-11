@@ -41,3 +41,7 @@ News
 [2022.5] Presented our paper @ ACL 2022, Dublin, Ireland.
 
 [2022.2] One paper on [Few shot NER](https://aclanthology.org/2022.acl-long.439/) is accepted at ACL 2022 Main Conference. Thanks to Rui and other coauthors!
+
+[2022.1] One paper on [AF Detection from PPG Signals](https://dl.acm.org/doi/10.1145/3517247) is accepted at IMWUT (UbiComp) 2022. Thanks to all the coauthors!
+
+[2021.5] One paper on [Geo-Spatial Embedding for Housing Pricing](https://link.springer.com/article/10.1007/s10618-021-00789-x) is accepted at Data Mining and Knowledge Discovery. Thanks to all the coauthors!
