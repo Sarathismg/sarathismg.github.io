@@ -18,7 +18,7 @@ Work experience
 ======
 * Summer 2023: Research Intern
   * Microsoft Research, Redmond, WA
-  * Worked on "Structured Open-Domain Dialogue Segmentation and State Tracking with LLMs (ACL Findings '24)
+  * Worked on "Structured Open-Domain Dialogue Segmentation and State Tracking with LLMs" (ACL Findings '24)
   * Mentors: Tara Safavi, Longqi Yang, Jennifer Neville
 
 * Summer 2022: Applied Science Intern
