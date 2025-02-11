@@ -6,31 +6,92 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<!-- 
+  If you are using publication categories, the below code will automatically
+  render posts based on the defined categories. Otherwise, it will simply iterate
+  over all posts. For this static page, we replace the dynamic includes with our
+  hard-coded publication list.
+-->
 
+<!-- Publications List -->
+<h2>Publications</h2>
+<hr />
 
+<ul>
+  <li>
+    <strong>P1.</strong> <strong>Sarkar Snigdha Sarathi Das</strong>, Ryo Kamoi, Bo Pang, Yusen Zhang, Rui Zhang.  
+    <em>GReaTer: Gradients over Reasoning makes smaller Language Models Strong Prompt Optimizers</em>  
+    <em>ICLR 2025</em>
+  </li>
+  <li>
+    <strong>P2.</strong> Ryo Kamoi, <strong>Sarkar Snigdha Sarathi Das</strong>, Renze Lou, Jihyun Janice Ahn, Yilun Zhao, Xiaoxin Lu, Nan Zhang, Yusen Zhang, Ranran Haoran Zhang, Sujeeth Reddy Vummanthala, Salika Dave, Shaobo Qin, Arman Cohan, Wenpeng Yin, Rui Zhang.  
+    <em>Evaluating LLMs at Detecting Errors in LLM Responses</em>  
+    <em>COLM, 2024</em>
+  </li>
+  <li>
+    <strong>P3.</strong> <strong>Sarkar Snigdha Sarathi Das</strong>, Chirag Shah, Mengting Wan, Jennifer Neville, Longqi Yang, Reid Andersen, Georg Buscher, Tara Safavi.  
+    <em>S3-DST: Structured Open-Domain Dialogue Segmentation and State Tracking in the Era of LLMs</em>  
+    <em>Findings of ACL 2024</em>
+  </li>
+  <li>
+    <strong>P4.</strong> <strong>Sarkar Snigdha Sarathi Das</strong>, Haoran Ranran Zhang, Peng Shi, Wenpeng Yin, Rui Zhang.  
+    <em>Unified Low-Resource Sequence Labeling by Sample-Aware Dynamic Sparse Finetuning</em>  
+    <em>EMNLP 2023</em>
+  </li>
+  <li>
+    <strong>P5.</strong> Abdullah Al Ishtiaq, <strong>Sarkar Snigdha Sarathi Das</strong>, Syed Md Mukit Rashid, Ali Ranjbar, Kai Tu, Tianwei Wu, Zhezheng Song, Weixuan Wang, Mujtahid Al-Islam Akon, Rui Zhang, Syed Rafiul Hussain.  
+    <em>Hermes: Unlocking Security Analysis of Cellular Network Protocols by Synthesizing Finite State Machines from Natural Language Specifications</em>  
+    <em>USENIX Security 2024</em>
+  </li>
+  <li>
+    <strong>P6.</strong> <strong>Sarkar Snigdha Sarathi Das</strong>, Arzoo Katiyar, Rebecca J. Passonneau, Rui Zhang.  
+    <em>CONTaiNER: Few-Shot Named Entity Recognition via Contrastive Learning</em>  
+    <em>ACL 2022</em>
+  </li>
+  <li>
+    <strong>P7.</strong> <strong>Sarkar Snigdha Sarathi Das</strong>, Subangkar Karmaker Shanto, Masum Rahman, Md. Saiful Islam, Atif Rahman, Mohammad Mehedy Masud, Mohammed Eunus Ali.  
+    <em>BayesBeat: A Bayesian Deep Learning Approach for Atrial Fibrillation Detection from Noisy Photoplethysmography Data</em>  
+    <em>UbiComp 2022 (IMWUT Article 8, Vol. 6, March 2022)</em>
+  </li>
+  <li>
+    <strong>P8.</strong> <strong>Sarkar Snigdha Sarathi Das</strong>, Mohammed Eunus Ali, Yuan-Fang Li, Yong-Bin Kang, Timos Sellis.  
+    <em>Boosting House Price Predictions using Geo-Spatial Network Embedding</em>  
+    <em>Data Mining and Knowledge Discovery (2021)</em>
+  </li>
+  <li>
+    <strong>P9.</strong> Md. Ashraful Islam, Mir Mahathir Mohammad, <strong>Sarkar Snigdha Sarathi Das</strong>, Mohammed Eunus Ali.  
+    <em>A Survey on Deep Learning Based Point-Of-Interest (POI) Recommendations</em>  
+    <em>Neurocomputing (2022)</em>
+  </li>
+  <li>
+    <strong>P10.</strong> <strong>Sarkar Snigdha Sarathi Das</strong>, Syed Md Mukit Rashid, Mohammed Eunus Ali.  
+    <em>CCCNet: An Attention Based Deep Learning Framework for Categorized Counting of Crowd in Different Body States</em>  
+    <em>International Joint Conference on Neural Networks (IJCNN), IEEE 2020</em>
+  </li>
+</ul>
 
+<h2>Preprints</h2>
+<hr />
+
+<ul>
+  <li>
+    <strong>Preprint 1.</strong> Chirag Shah, Ryen W. White, Reid Andersen, Georg Buscher, Scott Counts, <strong>Sarkar Snigdha Sarathi Das</strong>, Ali Montazer, Sathish Manivannan, Jennifer Neville, Xiaochuan Ni, Nagu Rangan, Tara Safavi, Siddharth Suri, Mengting Wan, Leijie Wang, Longqi Yang.  
+    <em>Using Large Language Models to Generate, Validate, and Apply User Intent Taxonomies</em>  
+    <em>arXiv 2309.13063</em>
+  </li>
+  <li>
+    <strong>Preprint 2.</strong> Yusen Zhang, <strong>Sarkar Snigdha Sarathi Das</strong>, Rui Zhang.  
+    <em>Verbosity ≠ Veracity: Demystify Verbosity Compensation Behavior of Large Language Models</em>  
+    <em>arXiv 2411.07858</em>
+  </li>
+  <li>
+    <strong>Preprint 3.</strong> Ryo Kamoi, Yusen Zhang, <strong>Sarkar Snigdha Sarathi Das</strong>, Ranran Haoran Zhang, Rui Zhang.  
+    <em>VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information</em>  
+    <em>arXiv 2412.00947</em>
+  </li>
+</ul>
