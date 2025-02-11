@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Please check my full [CV](/files/CV_Sarkar_New.pdf) (Last Updated: February 2025)
 
 Education
 ======
@@ -17,48 +17,17 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2023: Research Intern
+  * Microsoft Research, Redmond, WA
+  * Worked on "Structured Open-Domain Dialogue Segmentation and State Tracking with LLMs (ACL Findings '24)
+  * Mentors: Tara Safavi, Longqi Yang, Jennifer Neville
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: Applied Science Intern
+  * Amazon, Sunnyvale, CA.
+  * Worked on different Neural Ranking techniques to research their efficacy in search and recommendation.
+  * Mentor: Mina Ghashemi
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* May 2019-December 2020: Research Assistant
+  * DataLab@BUET
+  * Worked as a research assistant in CSE, BUET. Multiple research projects are funded by the government of Bangladesh. Resulted in four publications in prestigious venues.
+  * Supervisor: Dr. Mohammed Eunus Ali
