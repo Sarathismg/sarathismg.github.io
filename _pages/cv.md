@@ -11,9 +11,8 @@ Please check my full [CV](/files/CV_Sarkar_New.pdf) (Last Updated: February 2025
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Candidate in Computer Science, Pennsylvania State University (January 2021 - November 2025 expected)
+* B.Sc. in Engineering, Bangladesh University of Engineering and Technology (BUET), (2015-2019)
 
 Work experience
 ======
