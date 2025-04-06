@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sarathismg.github.io/sitemap.xml
