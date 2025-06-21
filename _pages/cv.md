@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Please check my full [CV](/files/CV_Sarkar_New.pdf) (Last Updated: June 2025)
+Please check my full [CV](/files/CV_Sarkar_July_2025.pdf) (Last Updated: June 2025)
 
 Education
 ======
