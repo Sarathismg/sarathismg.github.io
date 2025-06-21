@@ -20,9 +20,14 @@ My research interests broadly lie in investigating novel techniques for stronger
 
 News
 ======
+[2025.6] Received 2024-25 Vice Provost and Dean of the Graduate School Student Persistence Scholarship.
+[2025.5] One co-authored paper got accepted at Workshop on Online Abuse and Harms (WOAH) @ ACL 2025.
+[2025.5] Our prompt optimization library [GreaTerPrompt](https://pypi.org/project/greaterprompt/) got accepted at ACL 2025 Demo! Congratulations to Wenliang and all co-authors! Check this library out!
+[2025.4] One co-authored paper on LLM usage for user intent taxonomies is accepted at ACM Transactions on the Web 2025.
+[2025.3] Two patents from my Microsoft Internship got published.
 [2025.1] One paper on [Prompt Optimization](https://arxiv.org/abs/2412.09722) is accepted at ICLR 2025. Thanks to all my collaborators!
 
-[2024.7] One paper on LLM error detection is accepted at COLM 2024. Thanks to Ryo and all the collaborators!
+[2024.7] One co-authored paper on LLM error detection is accepted at COLM 2024. Thanks to Ryo and all the collaborators!
 
 [2024.5] One paper from my Microsoft Research Internship on [Joint Dialogue Segmentation and State Tracking](https://aclanthology.org/2024.findings-acl.891/) is accepted at ACL Findings 2024. Thanks to my mentors [Tara Safavi](https://tsafavi.github.io), [Longqi Yang](https://ylongqi.com), and [Jennifer Neville](https://jenneville.github.io), and all the coauthors!
 
