@@ -11,7 +11,7 @@ Please check my full [CV](/files/CV_Sarkar_July_2025.pdf) (Last Updated: June 20
 
 Education
 ======
-* Ph.D Candidate in Computer Science, Pennsylvania State University (January 2021 - November 2025 expected)
+* Ph.D Candidate in Computer Science, Pennsylvania State University (January 2021 - January 2026 expected)
 * B.Sc. in Engineering, Bangladesh University of Engineering and Technology (BUET), (2015-2019)
 
 Work experience
