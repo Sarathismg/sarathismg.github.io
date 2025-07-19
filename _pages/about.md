@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi~ I am a fifth-year PhD student at Pennsylvania State University, advised by [Dr. Rui Zhang](https://ryanzhumich.github.io). Previously I have done my research internships in Microsoft Research and Amazon. 
+Hi, I am a fifth-year PhD student at Pennsylvania State University, advised by [Dr. Rui Zhang](https://ryanzhumich.github.io). Currently, I am a Student Researcher intern at [Google Research](https://research.google/teams/cloud-ai/). Previously, I have done my research internships in Microsoft Research and Amazon. 
 
 Research Interests
 ======
