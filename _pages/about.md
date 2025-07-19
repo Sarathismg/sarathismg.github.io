@@ -20,6 +20,8 @@ My research interests broadly lie in investigating novel techniques for stronger
 
 News
 ======
+[2025.7] Started my internship at Google Cloud AI Research! If you are in the Bay Area, find me in Sunnyvale this summer!
+
 [2025.6] Received 2024-25 Vice Provost and Dean of the Graduate School Student Persistence Scholarship. Thanks to my amazing advisor [Rui Zhang](https://ryanzhumich.github.io/) and all my collaborators in my journey!
 
 [2025.5] One co-authored paper got accepted at Workshop on Online Abuse and Harms (WOAH) @ ACL 2025.
