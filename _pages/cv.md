@@ -11,11 +11,16 @@ Please check my full [CV](/files/CV_Sarkar_July_2025.pdf) (Last Updated: June 20
 
 Education
 ======
-* Ph.D Candidate in Computer Science, Pennsylvania State University (January 2021 - January 2026 expected)
+* Ph.D Candidate in Computer Science, Pennsylvania State University (January 2021 - Present)
 * B.Sc. in Engineering, Bangladesh University of Engineering and Technology (BUET), (2015-2019)
 
 Work experience
 ======
+* Summer 2025 (Current): Student Researcher Intern
+  * Google Cloud AI Research, Sunnyvale, CA
+  * Working on Agentic AI
+  * Mentors: Palash Goyal, Mihir Pramar, Hamid Palangi
+
 * Summer 2023: Research Intern
   * Microsoft Research, Redmond, WA
   * Worked on "Structured Open-Domain Dialogue Segmentation and State Tracking with LLMs" (ACL Findings '24)
