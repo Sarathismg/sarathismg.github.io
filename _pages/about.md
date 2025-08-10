@@ -13,13 +13,19 @@ Research Interests
 ======
 My research interests broadly lie in investigating novel techniques for stronger and data-efficient Natural Language Processing, with a focus on:
 
-- Strategy and Prompt Optimization for Better Reasoning (ICLR '25)
+- Strategy and Prompt Optimization for Better Reasoning (ICLR '25, ACL '25 Demo)
 - Data and Parameter Efficient Fine Tuning (EMNLP '23)
 - Zero/Few Shot Learning (ACL 2022. ACL Findings '24)
 
 
 News
 ======
+[2025.8] Our research on Prompt Optimization and High-Resolution image understanding have been covered in [TechXplore](https://techxplore.com/news/2025-07-optimize-ai-science.html) and [PSU News](https://www.psu.edu/news/engineering/story/qa-how-are-researchers-optimizing-ai-systems-science)!
+
+[2025.7] Presented our work on Prompt Optimization library - GReaTerPrompt at ACL 2025 Demo.
+
+[2025.7] Two co-authored paper got accepted at ICCV 2025, and COLM 2025. Congratulations Yusen and Ryo!
+
 [2025.7] Started my internship at [Google Cloud AI Research](https://research.google/teams/cloud-ai/) on Agentic AI! If you're in the Bay Area, find me in Sunnyvale this summer!
 
 [2025.6] Received 2024-25 Vice Provost and Dean of the Graduate School Student Persistence Scholarship. Thanks to my amazing advisor [Rui Zhang](https://ryanzhumich.github.io/) and all my collaborators in my journey!
