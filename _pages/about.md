@@ -7,19 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a fifth-year PhD student at Pennsylvania State University, advised by [Dr. Rui Zhang](https://ryanzhumich.github.io). Currently, I am a Student Researcher intern at [Google Research](https://research.google/teams/cloud-ai/). Previously, I have done my research internships in Microsoft Research and Amazon. 
+Hi, I am a fifth-year PhD student at Pennsylvania State University, advised by [Dr. Rui Zhang](https://ryanzhumich.github.io). Currently, I am a Student Researcher at [Google Research](https://research.google/teams/cloud-ai/) working with LLM agents. Previously, I have done my research internships in [Microsoft Research](https://www.microsoft.com/en-us/research/group/ai-interaction-and-learning/) and [Amazon Science](https://www.amazon.science/). 
 
 Research Interests
 ======
 My research interests broadly lie in investigating novel techniques for stronger and data-efficient Natural Language Processing, with a focus on:
 
+- Multi-Agent LLM, Time-Series Agents (Ongoing)
 - Strategy and Prompt Optimization for Better Reasoning (ICLR '25, ACL '25 Demo)
 - Data and Parameter Efficient Fine Tuning (EMNLP '23)
-- Zero/Few Shot Learning (ACL 2022. ACL Findings '24)
+- Zero/Few-Shot Learning (ACL 2022. ACL Findings '24)
 
 
 News
 ======
+[2025.9] Our Time-Series Forecasting technique *NeXus* has topped the GIFT-Eval leaderboard! Stay tuned for the full paper and code.
+
 [2025.8] Our research on Prompt Optimization and High-Resolution image understanding have been covered in [TechXplore](https://techxplore.com/news/2025-07-optimize-ai-science.html) and [PSU News](https://www.psu.edu/news/engineering/story/qa-how-are-researchers-optimizing-ai-systems-science)!
 
 [2025.7] Presented our work on Prompt Optimization library - GReaTerPrompt at ACL 2025 Demo.
