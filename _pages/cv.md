@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Please check my full [CV](/files/CV_Sarkar_July_2025.pdf) (Last Updated: June 2025)
+Please check my full [CV](/files/CV_Sarkar_October.pdf) (Last Updated: October 2025)
 
 Education
 ======
@@ -16,10 +16,10 @@ Education
 
 Work experience
 ======
-* Summer 2025 (Current): Student Researcher Intern
+* Summer 2025 - Current: Student Researcher
   * Google Cloud AI Research, Sunnyvale, CA
-  * Working on Agentic AI
-  * Mentors: Palash Goyal, Mihir Pramar, Hamid Palangi
+  * Working on Agentic AI, Time Series Agents
+  * Mentors: Palash Goyal, Mihir Parmar, Hamid Palangi, Jinsung Yoon
 
 * Summer 2023: Research Intern
   * Microsoft Research, Redmond, WA
