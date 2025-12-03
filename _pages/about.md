@@ -21,7 +21,7 @@ My research interests broadly lie in investigating novel techniques for stronger
 
 News
 ======
-[2025.9] Our Time-Series Forecasting technique *NeXus* has topped the GIFT-Eval leaderboard! Stay tuned for the full paper and code.
+[2025.9] Our Time-Series Forecasting technique *Synapse* has topped the GIFT-Eval leaderboard! Stay tuned for the full paper and code.
 
 [2025.8] Our research on Prompt Optimization and High-Resolution image understanding have been covered in [TechXplore](https://techxplore.com/news/2025-07-optimize-ai-science.html) and [PSU News](https://www.psu.edu/news/engineering/story/qa-how-are-researchers-optimizing-ai-systems-science)!
 
