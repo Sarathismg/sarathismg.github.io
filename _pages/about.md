@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at Google, working to advance LLM agents, multi-agent reasoning frameworks, and experience-driven adaptation. I have obtained my PhD from Pennsylvania State University advised by Dr. Rui Zhang(https://ryanzhumich.github.io/). During my PhD, I also did my research internships in Google[https://research.google/teams/cloud-ai-research/], [Microsoft Research](https://www.microsoft.com/en-us/research/group/ai-interaction-and-learning/), and [Amazon Science](https://www.amazon.science/). 
+I am a Research Scientist at Google, working to advance LLM agents, multi-agent reasoning frameworks, and experience-driven adaptation. I have obtained my PhD from Pennsylvania State University advised by [Dr. Rui Zhang](https://ryanzhumich.github.io/). During my PhD, I also did my research internships in [Google](https://research.google/teams/cloud-ai-research/), [Microsoft Research](https://www.microsoft.com/en-us/research/group/ai-interaction-and-learning/), and [Amazon Science](https://www.amazon.science/). 
 
 Research Interests
 ======
