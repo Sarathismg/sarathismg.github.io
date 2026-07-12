@@ -7,21 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a fifth-year PhD student at Pennsylvania State University, advised by [Dr. Rui Zhang](https://ryanzhumich.github.io). Currently, I am a Student Researcher at [Google Research](https://research.google/teams/cloud-ai/) working with LLM agents. Previously, I have done my research internships in [Microsoft Research](https://www.microsoft.com/en-us/research/group/ai-interaction-and-learning/) and [Amazon Science](https://www.amazon.science/). 
+I am a Research Scientist at Google, working to advance LLM agents, multi-agent reasoning frameworks, and experience-driven adaptation. I have obtained my PhD from Pennsylvania State University advised by Dr. Rui Zhang(https://ryanzhumich.github.io/). During my PhD, I also did my research internships in Google[https://research.google/teams/cloud-ai-research/], [Microsoft Research](https://www.microsoft.com/en-us/research/group/ai-interaction-and-learning/), and [Amazon Science](https://www.amazon.science/). 
 
 Research Interests
 ======
 My research interests broadly lie in investigating novel techniques for stronger and data-efficient Natural Language Processing, with a focus on:
 
 - Multi-Agent LLM, Time-Series Agents (Ongoing)
-- Strategy and Prompt Optimization for Better Reasoning (ICLR '25, ACL '25 Demo)
-- Data and Parameter Efficient Fine Tuning (EMNLP '23)
-- Zero/Few-Shot Learning (ACL 2022. ACL Findings '24)
+- Strategy and Prompt Optimization for Better Reasoning 
+- Data and Parameter Efficient Fine Tuning 
+- Zero/Few-Shot Learning 
 
 
 News
 ======
-[2025.9] Our Time-Series Forecasting technique *Synapse* has topped the GIFT-Eval leaderboard! Stay tuned for the full paper and code.
+[2026.6] Heading to Google as a Research Scientist. Excited to push the boundaries of Agentic LLMs and beyond!
+
+[2026.5] I have defended my dissertation on May 4th! Many thanks to my wonderful advisor, Rui, and all the committee members. 
+
+[2026.2] [Synapse](https://arxiv.org/pdf/2511.05460) got accepted at TMLR!
+
+[2025.9] Our Time-Series Forecasting technique *Synapse* has topped the GIFT-Eval leaderboard! 
 
 [2025.8] Our research on Prompt Optimization and High-Resolution image understanding have been covered in [TechXplore](https://techxplore.com/news/2025-07-optimize-ai-science.html) and [PSU News](https://www.psu.edu/news/engineering/story/qa-how-are-researchers-optimizing-ai-systems-science)!
 
